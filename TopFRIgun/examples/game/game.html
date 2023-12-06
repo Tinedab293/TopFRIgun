@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>TopFriGun</title>
+
+    <link rel="stylesheet" type="text/css" href="../../common/style.css">
+
+    <script type="text/javascript" src="../../lib/gl-matrix-min.js"></script>
+    <script type="text/javascript" src="../../lib/dat.gui.min.js"></script>
+    <script type="module" src="game.js"></script>
+</head>
+<style>
+    body, html {
+      height: 100%;
+      margin: 0;
+    }
+    
+    .bg {
+      /* The image used */
+      background-image: url("../../common/images/you-win.png");
+    
+      /* Full height */
+      height: 100%; 
+    
+      /* Center and scale the image nicely */
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+    }
+    </style>
+<body>
+    <div  id="win" class="bg" hidden="hidden">
+    </div>
+    <div id="instructions" class="overlay">
+        <h3>Enable camera an press any key to start</h3>
+        <h4>ArrowUP->Up, ArrowDown->Down, ArrowLeft->Left, ArrowRight->Right</h4></div>
+    <div class="fullscreen">
+        <canvas></canvas>
+    </div>
+</body>
+</html>

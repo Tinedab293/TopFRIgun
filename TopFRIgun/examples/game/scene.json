@@ -1,0 +1,1026 @@
+{
+  "nodes": [
+    {
+      "type": "camera",
+      "translation": [0, 1, 30],
+      "aabb": {
+        "min": [-0.2, -0.2, -0.2],
+        "max": [0.2, 0.2, 0.2]
+      },
+      "aspect": 1,
+      "fov": 1.5,
+      "near": 0.01,
+      "far": 100
+    },
+    {
+      "type": "model",
+      "mesh": 3,
+      "texture": 2,
+      "aabb": {
+        "min": [-3, -0,5, -0,5],
+        "max": [0.5, 0.5, 0.5]
+      },
+      "translation": [0, -0.5, -3],
+      "rotation": [0,-3.2,0],
+      "scale": [0.1, 0.1, 0.1]
+    },
+    {
+      "type": "model",
+      "mesh": 2,
+      "texture": 0,
+      "aabb": {
+        "min": [-1000, -0.3, -1000],
+        "max": [1000, 0.3, 1000]
+      },
+      "translation": [-5,-0.1,0],
+      "rotation": [0, 1.5, 0],
+      "scale": [5, 0.1, 5]
+    },
+    {
+      "type": "model",
+      "mesh": 2,
+      "texture": 0,
+      "aabb": {
+        "min": [-1000, -0.1, -1000],
+        "max": [1000, 0.1, 1000]
+      },
+      "translation": [10,-0.1,0],
+      "rotation": [-0.7, 1.5, 0],
+      "scale": [5, 0.1, 5]
+    },
+    {
+      "type": "model",
+      "mesh": 2,
+      "texture": 0,
+      "aabb": {
+        "min": [-1, -0.1, -1],
+        "max": [1, 1, 1]
+      },
+      "translation": [-10,-0.1,-5],
+      "rotation": [0.7, 1.5, 0],
+      "scale": [20, 0.1, 20]
+    },
+    {
+      "type": "model",
+      "mesh": 2,
+      "texture": 0,
+      "aabb": {
+        "min": [-1, -0.1, -1],
+        "max": [1, 0.1, 1]
+      },
+      "translation": [-5,-0.1,-5],
+      "rotation": [0, 1.5, 0],
+      "scale": [20, 0.1, 20]
+    },
+    {
+      "type": "model",
+      "mesh": 2,
+      "texture": 0,
+      "aabb": {
+        "min": [-1, -0.1, -1],
+        "max": [1, 0.1, 1]
+      },
+      "translation": [10,-0.1,-5],
+      "rotation": [-0.7, 1.5, 0],
+      "scale": [20, 0.1, 20]
+    },
+    {
+      "type": "model",
+      "mesh": 2,
+      "texture": 0,
+      "aabb": {
+        "min": [-1, -0.1, -1],
+        "max": [1, 0.1, 1]
+      },
+      "translation": [-5,-0.1,-10],
+      "rotation": [0, 1.5, 0],
+      "scale": [5, 0.1, 5]
+    },
+    {
+      "type": "model",
+      "mesh": 2,
+      "texture": 0,
+      "aabb": {
+        "min": [-1, -0.1, -1],
+        "max": [1, 0.1, 1]
+      },
+      "translation": [10,-0.1,-10],
+      "rotation": [-0.7, 1.5, 0],
+      "scale": [5, 0.1, 5]
+    },
+    {
+      "type": "model",
+      "mesh": 2,
+      "texture": 0,
+      "aabb": {
+        "min": [-1, -0.1, -1],
+        "max": [1, 0.1, 1]
+      },
+      "translation": [-10,-0.1,-10],
+      "rotation": [0.7, 1.5, 0],
+      "scale": [5, 0.1, 5]
+    },
+    {
+      "type": "model",
+      "mesh": 2,
+      "texture": 0,
+      "aabb": {
+        "min": [-1, -0.1, -1],
+        "max": [1, 0.1, 1]
+      },
+      "translation": [-10,-0.1,-10],
+      "rotation": [0.7, 1.5, 0],
+      "scale": [5, 0.1, 5]
+    },
+    {
+      "type": "model",
+      "mesh": 2,
+      "texture": 0,
+      "aabb": {
+        "min": [-1, -0.1, -1],
+        "max": [1, 0.1, 1]
+      },
+      "translation": [-5,-0.1,-15],
+      "rotation": [0, 1.5, 0],
+      "scale": [5, 0.1, 5]
+    },
+    {
+      "type": "model",
+      "mesh": 2,
+      "texture": 0,
+      "aabb": {
+        "min": [-1, -0.1, -1],
+        "max": [1, 0.1, 1]
+      },
+      "translation": [10,-0.1,-15],
+      "rotation": [-0.7, 1.5, 0],
+      "scale": [5, 0.1, 5]
+    },
+    {
+      "type": "model",
+      "mesh": 2,
+      "texture": 0,
+      "aabb": {
+        "min": [-1, -0.1, -1],
+        "max": [1, 0.1, 1]
+      },
+      "translation": [-10,-0.1,-15],
+      "rotation": [0.7, 1.5, 0],
+      "scale": [5, 0.1, 5]
+    },
+    {
+      "type": "model",
+      "mesh": 2,
+      "texture": 0,
+      "aabb": {
+        "min": [-1, -0.1, -1],
+        "max": [1, 0.1, 1]
+      },
+      "translation": [-5,-0.1,-25],
+      "rotation": [0, 1.5, 0],
+      "scale": [5, 0.1, 5]
+    },
+    {
+      "type": "model",
+      "mesh": 2,
+      "texture": 0,
+      "aabb": {
+        "min": [-1, -0.1, -1],
+        "max": [1, 0.1, 1]
+      },
+      "translation": [10,-0.1,-25],
+      "rotation": [-0.7, 1.5, 0],
+      "scale": [5, 0.1, 5]
+    },
+    {
+      "type": "model",
+      "mesh": 2,
+      "texture": 0,
+      "aabb": {
+        "min": [-1, -0.1, -1],
+        "max": [1, 0.1, 1]
+      },
+      "translation": [-5,-0.1,-50],
+      "rotation": [0, 1.5, 0],
+      "scale": [5, 0.1, 5]
+    },
+    {
+      "type": "model",
+      "mesh": 2,
+      "texture": 0,
+      "aabb": {
+        "min": [-1, -0.1, -1],
+        "max": [1, 0.1, 1]
+      },
+      "translation": [13,-0.1,-50],
+      "rotation": [-0.7, 1.5, 0],
+      "scale": [5, 0.1, 5]
+    },
+    {
+      "type": "model",
+      "mesh": 2,
+      "texture": 0,
+      "aabb": {
+        "min": [-1, -0.1, -1],
+        "max": [1, 0.1, 1]
+      },
+      "translation": [-7,-0.1,-50],
+      "rotation": [0.7, 1.5, 0],
+      "scale": [5, 0.1, 5]
+    },
+    {
+      "type": "model",
+      "mesh": 2,
+      "texture": 0,
+      "aabb": {
+        "min": [-1, -0.1, -1],
+        "max": [1, 0.1, 1]
+      },
+      "translation": [-5,-0.1,-100],
+      "rotation": [0, 1.5, 0],
+      "scale": [5, 0.1, 5]
+    },
+    {
+      "type": "model",
+      "mesh": 2,
+      "texture": 0,
+      "aabb": {
+        "min": [-1, -0.1, -1],
+        "max": [1, 0.1, 1]
+      },
+      "translation": [16.5,-0.1,-100],
+      "rotation": [-0.7, 1.5, 0],
+      "scale": [5, 0.1, 5]
+    },
+    {
+      "type": "model",
+      "mesh": 2,
+      "texture": 0,
+      "aabb": {
+        "min": [-1, -0.1, -1],
+        "max": [1, 0.1, 1]
+      },
+      "translation": [-4,-0.1,-100],
+      "rotation": [0.7, 1.5, 0],
+      "scale": [5, 0.1, 5]
+    },
+    {
+      "type": "model",
+      "mesh": 2,
+      "texture": 0,
+      "aabb": {
+        "min": [-1, -0.1, -1],
+        "max": [1, 0.1, 1]
+      },
+      "translation": [-5,-0.1,-150],
+      "rotation": [0, 1.5, 0],
+      "scale": [10, 0.1, 10]
+    },
+    {
+      "type": "model",
+      "mesh": 2,
+      "texture": 0,
+      "aabb": {
+        "min": [-1, -0.1, -1],
+        "max": [1, 0.1, 1]
+      },
+      "translation": [20,-0.1,-150],
+      "rotation": [-0.7, 1.5, 0],
+      "scale": [5, 0.1, 5]
+    },
+    {
+      "type": "model",
+      "mesh": 2,
+      "texture": 0,
+      "aabb": {
+        "min": [-1, -0.1, -1],
+        "max": [1, 0.1, 1]
+      },
+      "translation": [-1,-0.1,-150],
+      "rotation": [0.7, 1.5, 0],
+      "scale": [5, 0.1, 5]
+    },
+    {
+      "type": "model",
+      "mesh": 2,
+      "texture": 0,
+      "aabb": {
+        "min": [-1, -0.1, -1],
+        "max": [1, 0.1, 1]
+      },
+      "translation": [-5,-0.1,-200],
+      "rotation": [0, 1.5, 0],
+      "scale": [10, 0.1, 10]
+    },
+    {
+      "type": "model",
+      "mesh": 2,
+      "texture": 0,
+      "aabb": {
+        "min": [-1, -0.1, -1],
+        "max": [1, 0.1, 1]
+      },
+      "translation": [23.5,-0.1,-200],
+      "rotation": [-0.7, 1.5, 0],
+      "scale": [5, 0.1, 5]
+    },
+    {
+      "type": "model",
+      "mesh": 2,
+      "texture": 0,
+      "aabb": {
+        "min": [-1, -0.1, -1],
+        "max": [1, 0.1, 1]
+      },
+      "translation": [2,-0.1,-200],
+      "rotation": [0.7, 1.5, 0],
+      "scale": [5, 0.1, 5]
+    },
+    {
+      "type": "model",
+      "mesh": 2,
+      "texture": 0,
+      "aabb": {
+        "min": [-1, -0.1, -1],
+        "max": [1, 0.1, 1]
+      },
+      "translation": [0,-0.1,-250],
+      "rotation": [0, 1.5, 0],
+      "scale": [10, 0.1, 10]
+    },
+    {
+      "type": "model",
+      "mesh": 2,
+      "texture": 0,
+      "aabb": {
+        "min": [-1, -0.1, -1],
+        "max": [1, 0.1, 1]
+      },
+      "translation": [27,-0.1,-250],
+      "rotation": [-0.7, 1.5, 0],
+      "scale": [5, 0.1, 5]
+    },
+    {
+      "type": "model",
+      "mesh": 2,
+      "texture": 0,
+      "aabb": {
+        "min": [-1, -0.1, -1],
+        "max": [1, 0.1, 1]
+      },
+      "translation": [5,-0.1,-250],
+      "rotation": [0.7, 1.5, 0],
+      "scale": [5, 0.1, 5]
+    },
+    {
+      "type": "model",
+      "mesh": 2,
+      "texture": 0,
+      "aabb": {
+        "min": [-1, -0.1, -1],
+        "max": [1, 0.1, 1]
+      },
+      "translation": [5,-0.1,-300],
+      "rotation": [0, 1.5, 0],
+      "scale": [10, 0.1, 10]
+    },
+    {
+      "type": "model",
+      "mesh": 2,
+      "texture": 0,
+      "aabb": {
+        "min": [-1, -0.1, -1],
+        "max": [1, 0.1, 1]
+      },
+      "translation": [30.7,-0.1,-300],
+      "rotation": [-0.7, 1.5, 0],
+      "scale": [5, 0.1, 5]
+    },
+    {
+      "type": "model",
+      "mesh": 2,
+      "texture": 0,
+      "aabb": {
+        "min": [-1, -0.1, -1],
+        "max": [1, 0.1, 1]
+      },
+      "translation": [8,-0.1,-300],
+      "rotation": [0.7, 1.5, 0],
+      "scale": [5, 0.1, 5]
+    },
+    {
+      "type": "model",
+      "mesh": 2,
+      "texture": 0,
+      "aabb": {
+        "min": [-1, -0.1, -1],
+        "max": [1, 0.1, 1]
+      },
+      "translation": [8,-0.1,-350],
+      "rotation": [0, 1.5, 0],
+      "scale": [10, 0.1, 10]
+    },
+    {
+      "type": "model",
+      "mesh": 2,
+      "texture": 0,
+      "aabb": {
+        "min": [-1, -0.1, -1],
+        "max": [1, 0.1, 1]
+      },
+      "translation": [34.5,-0.1,-350],
+      "rotation": [-0.7, 1.5, 0],
+      "scale": [5, 0.1, 5]
+    },
+    {
+      "type": "model",
+      "mesh": 2,
+      "texture": 0,
+      "aabb": {
+        "min": [-1, -0.1, -1],
+        "max": [1, 0.1, 1]
+      },
+      "translation": [11,-0.1,-350],
+      "rotation": [0.7, 1.5, 0],
+      "scale": [5, 0.1, 5]
+    },
+    {
+      "type": "model",
+      "mesh": 2,
+      "texture": 0,
+      "aabb": {
+        "min": [-1, -0.1, -1],
+        "max": [1, 0.1, 1]
+      },
+      "translation": [13,-0.1,-400],
+      "rotation": [0, 1.5, 0],
+      "scale": [10, 0.1, 10]
+    },
+    {
+      "type": "model",
+      "mesh": 2,
+      "texture": 0,
+      "aabb": {
+        "min": [-1, -0.1, -1],
+        "max": [1, 0.1, 1]
+      },
+      "translation": [38,-0.1,-400],
+      "rotation": [-0.7, 1.5, 0],
+      "scale": [5, 0.1, 5]
+    },
+    {
+      "type": "model",
+      "mesh": 2,
+      "texture": 0,
+      "aabb": {
+        "min": [-1, -0.1, -1],
+        "max": [1, 0.1, 1]
+      },
+      "translation": [14,-0.1,-400],
+      "rotation": [0.7, 1.5, 0],
+      "scale": [5, 0.1, 5]
+    },
+    {
+      "type": "model",
+      "mesh": 5,
+      "texture": 2,
+      "aabb": {
+        "min": [-7.3, -5, -1],
+        "max": [-4, 5, 1.2]
+      },
+      "translation": [9, 3, -5],
+      "rotation": [0,0,0],
+      "scale":[1,1,1]
+    },
+    {
+      "type": "model",
+      "mesh": 5,
+      "texture": 2,
+      "aabb": {
+        "min": [-7.3, -5, -1],
+        "max": [-4, 5, 1.2]
+      },
+      "translation": [10, 3, -26.7],
+      "rotation": [0,0,0],
+      "scale":[1,1,1]
+    },
+    {
+      "type": "model",
+      "mesh": 5,
+      "texture": 2,
+      "aabb": {
+        "min": [-7.3, -5, -1],
+        "max": [-4, 5, 1.2]
+      },
+      "translation": [4.6, 3, -33],
+      "rotation": [0,0,0],
+      "scale":[1,1,1]
+    },
+    {
+      "type": "model",
+      "mesh": 5,
+      "texture": 2,
+      "aabb": {
+        "min": [-7.3, -5, -1],
+        "max": [-4, 5, 1.2]
+      },
+      "translation": [15, 3, -89.4],
+      "rotation": [0,0,0],
+      "scale":[1,1,1]
+    },
+    {
+      "type": "model",
+      "mesh": 5,
+      "texture": 2,
+      "aabb": {
+        "min": [-7.3, -5, -1],
+        "max": [-4, 5, 1.2]
+      },
+      "translation": [12, 3, -120],
+      "rotation": [0,0,0],
+      "scale":[1,1,1]
+    },
+    {
+      "type": "model",
+      "mesh": 5,
+      "texture": 2,
+      "aabb": {
+        "min": [-7.3, -5, -1],
+        "max": [-4, 5, 1.2]
+      },
+      "translation": [10.2, 3, -168.7],
+      "rotation": [0,0,0],
+      "scale":[1,1,1]
+    },
+    {
+      "type": "model",
+      "mesh": 5,
+      "texture": 2,
+      "aabb": {
+        "min": [-7.3, -5, -1],
+        "max": [-4, 5, 1.2]
+      },
+      "translation": [22, 3, -274],
+      "rotation": [0,0,0],
+      "scale":[1,1,1]
+    },
+    {
+      "type": "model",
+      "mesh": 5,
+      "texture": 2,
+      "aabb": {
+        "min": [-7.3, -5, -1],
+        "max": [-4, 5, 1.2]
+      },
+      "translation": [18, 3, -300],
+      "rotation": [0,0,0],
+      "scale":[1,1,1]
+    },
+    {
+      "type": "model",
+      "mesh": 5,
+      "texture": 2,
+      "aabb": {
+        "min": [-7.3, -5, -1],
+        "max": [-4, 5, 1.2]
+      },
+      "translation": [34, 3, -328],
+      "rotation": [0,0,0],
+      "scale":[1,1,1]
+    },
+    {
+      "type": "model",
+      "mesh": 5,
+      "texture": 2,
+      "aabb": {
+        "min": [-7.3, -5, -1],
+        "max": [-4, 5, 1.2]
+      },
+      "translation": [30, 3, -359],
+      "rotation": [0,0,0],
+      "scale":[1,1,1]
+    },
+    {
+      "type": "model",
+      "mesh": 5,
+      "texture": 2,
+      "aabb": {
+        "min": [-7.3, -5, -1],
+        "max": [-4, 5, 1.2]
+      },
+      "translation": [7, 3, -50],
+      "rotation": [0,0,0],
+      "scale":[1,1,1]
+    },
+    {
+      "type": "model",
+      "mesh": 5,
+      "texture": 2,
+      "aabb": {
+        "min": [-7.3, -5, -1],
+        "max": [-4, 5, 1.2]
+      },
+      "translation": [15, 3, -193],
+      "rotation": [0,0,0],
+      "scale":[1,1,1]
+    },
+    {
+      "type": "model",
+      "mesh": 5,
+      "texture": 2,
+      "aabb": {
+        "min": [-7.3, -5, -1],
+        "max": [-4, 5, 1.2]
+      },
+      "translation": [15, 3, -210],
+      "rotation": [0,0,0],
+      "scale":[1,1,1]
+    },
+    {
+      "type": "model",
+      "mesh": 5,
+      "texture": 2,
+      "aabb": {
+        "min": [-1000, -0.5, -1000],
+        "max": [1000, 0.5, 1000]
+      },
+      "translation": [30, 9, 100],
+      "rotation": [0,0,0],
+      "scale":[30,30,30]
+    },
+    {
+      "type": "model",
+      "mesh": 0,
+      "texture": 1,
+      "aabb": {
+        "min": [-1, -5, -1],
+        "max": [1, 5, 1]
+      },
+      "translation": [7, -0.5, -45],
+      "rotation": [0,0,0],
+      "scale":[1,1,1]
+    },
+    
+    {
+      "type": "model",
+      "mesh": 0,
+      "texture": 1,
+      "aabb": {
+        "min": [-0.5, -0.5, -0.5],
+        "max": [0.5, 0.5, 0.5]
+      },
+      "translation": [0, -0.5, -60],
+      "rotation": [0,1.8,0],
+      "scale":[1,10,10]
+    },
+    {
+      "type": "model",
+      "mesh": 0,
+      "texture": 1,
+      "aabb": {
+        "min": [-0.5, -0.5, -0.5],
+        "max": [0.5, 0.5, 0.5]
+      },
+      
+      "translation": [4, -0.5, -80],
+      "rotation": [0,1.8,0],
+      "scale":[1,10,10]
+    },
+    {
+      "type": "model",
+      "mesh": 0,
+      "texture": 1,
+      "aabb": {
+        "min": [-0.5, -0.5, -0.5],
+        "max": [0.5, 0.5, 0.5]
+      },
+      "translation": [2, -0.5, -90],
+      "rotation": [0,1.8,0],
+      "scale":[1,10,10]
+    },
+    {
+      "type": "model",
+      "mesh": 0,
+      "texture": 1,
+      "aabb": {
+        "min": [-0.5, -0.5, -0.5],
+        "max": [0.5, 0.5, 0.5]
+      },
+      "translation": [3, -0.5, -100],
+      "rotation": [0,1.8,0],
+      "scale":[1,10,10]
+    },
+    {
+      "type": "model",
+      "mesh": 0,
+      "texture": 1,
+      "aabb": {
+        "min": [-0.5, -0.5, -0.5],
+        "max": [0.5, 0.5, 0.5]
+      },
+      "translation": [10, -0.5, -120],
+      "rotation": [0,1.8,0],
+      "scale":[1,10,10]
+    },
+    {
+      "type": "model",
+      "mesh": 0,
+      "texture": 1,
+      "aabb": {
+        "min": [-0.5, -0.5, -0.5],
+        "max": [0.5, 0.5, 0.5]
+      },
+      "translation": [7.3, -0.5, -140],
+      "rotation": [0,1.8,0],
+      "scale":[1,10,10]
+    },
+    {
+      "type": "model",
+      "mesh": 0,
+      "texture": 1,
+      "aabb": {
+        "min": [-0.5, -0.5, -0.5],
+        "max": [0.5, 0.5, 0.5]
+      },
+      "translation": [15, -0.5, -170],
+      "rotation": [0,1.8,0],
+      "scale":[1,10,10]
+    },
+    {
+      "type": "model",
+      "mesh": 0,
+      "texture": 1,
+      "aabb": {
+        "min": [-0.5, -0.5, -0.5],
+        "max": [0.5, 0.5, 0.5]
+      },
+      "translation": [-3, -0.5, -5],
+      "rotation": [0,1.8,0],
+      "scale":[1,10,10]
+    },
+    {
+      "type": "model",
+      "mesh": 0,
+      "texture": 1,
+      "aabb": {
+        "min": [-0.5, -0.5, -0.5],
+        "max": [0.5, 0.5, 0.5]
+      },
+      "translation": [13, -0.5, -190],
+      "rotation": [0,1.8,0],
+      "scale":[1,10,10]
+    },
+    {
+      "type": "model",
+      "mesh": 0,
+      "texture": 1,
+      "aabb": {
+        "min": [-0.5, -0.5, -0.5],
+        "max": [0.5, 0.5, 0.5]
+      },
+      "translation": [16, -0.5, -220],
+      "rotation": [0,1.8,0],
+      "scale":[1,10,10]
+    },
+    {
+      "type": "model",
+      "mesh": 0,
+      "texture": 1,
+      "aabb": {
+        "min": [-0.5, -0.5, -0.5],
+        "max": [0.5, 0.5, 0.5]
+      },
+      "translation": [11, -0.5, -205],
+      "rotation": [0,1.8,0],
+      "scale":[1,10,10]
+    },
+    {
+      "type": "model",
+      "mesh": 0,
+      "texture": 1,
+      "aabb": {
+        "min": [-0.5, -0.5, -0.5],
+        "max": [0.5, 0.5, 0.5]
+      },
+      "translation": [15, -0.5, -240],
+      "rotation": [0,1.8,0],
+      "scale":[1,10,10]
+    },
+    {
+      "type": "model",
+      "mesh": 0,
+      "texture": 1,
+      "aabb": {
+        "min": [-0.5, -0.5, -0.5],
+        "max": [0.5, 0.5, 0.5]
+      },
+      "translation": [13.88, -0.5, -256],
+      "rotation": [0,1.8,0],
+      "scale":[1,10,10]
+    },
+    {
+      "type": "model",
+      "mesh": 0,
+      "texture": 1,
+      "aabb": {
+        "min": [-0.5, -0.5, -0.5],
+        "max": [0.5, 0.5, 0.5]
+      },
+      "translation": [20.82, -0.5, -260],
+      "rotation": [0,1.8,0],
+      "scale":[1,10,10]
+    },
+    {
+      "type": "model",
+      "mesh": 0,
+      "texture": 1,
+      "aabb": {
+        "min": [-0.5, -0.5, -0.5],
+        "max": [0.5, 0.5, 0.5]
+      },
+      "translation": [20.7, -0.5, -275],
+      "rotation": [0,1.8,0],
+      "scale":[1,10,10]
+    },
+    {
+      "type": "model",
+      "mesh": 0,
+      "texture": 1,
+      "aabb": {
+        "min": [-0.5, -0.5, -0.5],
+        "max": [0.5, 0.5, 0.5]
+      },
+      "translation": [25.9, -0.5, -303],
+      "rotation": [0,1.8,0],
+      "scale":[1,10,10]
+    },
+    {
+      "type": "model",
+      "mesh": 0,
+      "texture": 1,
+      "aabb": {
+        "min": [-0.5, -0.5, -0.5],
+        "max": [0.5, 0.5, 0.5]
+      },
+      "translation": [15.6, -0.5, -317],
+      "rotation": [0,1.8,0],
+      "scale":[1,10,10]
+    },
+    {
+      "type": "model",
+      "mesh": 0,
+      "texture": 1,
+      "aabb": {
+        "min": [-0.5, -0.5, -0.5],
+        "max": [0.5, 0.5, 0.5]
+      },
+      "translation": [27.1, -0.5, -366],
+      "rotation": [0,1.8,0],
+      "scale":[1,10,10]
+    },
+    {
+      "type": "model",
+      "mesh": 0,
+      "texture": 1,
+      "aabb": {
+        "min": [-0.5, -0.5, -0.5],
+        "max": [0.5, 0.5, 0.5]
+      },
+      "translation": [20.4, -0.5, -372],
+      "rotation": [0,1.8,0],
+      "scale":[1,10,10]
+    },
+    {
+      "type": "model",
+      "mesh": 0,
+      "texture": 1,
+      "aabb": {
+        "min": [-0.5, -0.5, -0.5],
+        "max": [0.5, 0.5, 0.5]
+      },
+      "translation": [27.4, -0.5, -368],
+      "rotation": [0,1.8,0],
+      "scale":[1,10,10]
+    },
+    {
+      "type": "model",
+      "mesh": 0,
+      "texture": 1,
+      "aabb": {
+        "min": [-0.5, -0.5, -0.5],
+        "max": [0.5, 0.5, 0.5]
+      },
+      "translation": [32.2, -0.5, -377],
+      "rotation": [0,1.8,0],
+      "scale":[1,10,10]
+    },
+    {
+      "type": "model",
+      "mesh": 0,
+      "texture": 1,
+      "aabb": {
+        "min": [-0.5, -0.5, -0.5],
+        "max": [0.5, 0.5, 0.5]
+      },
+      "translation": [23.9, -0.5, -400],
+      "rotation": [0,1.8,0],
+      "scale":[1,10,10]
+    },
+    {
+      "type": "model",
+      "mesh": 0,
+      "texture": 1,
+      "aabb": {
+        "min": [-0.5, -0.5, -0.5],
+        "max": [0.5, 0.5, 0.5]
+      },
+      "translation": [34.8, -0.5, -407],
+      "rotation": [0,1.8,0],
+      "scale":[1,10,10]
+    },
+    {
+      "type": "model",
+      "mesh": 4,
+      "texture": 3,
+      "aabb": {
+        "min": [-10, -3, -3],
+        "max": [10, 3.5, 2.5]
+      },
+       "translation": [2,0,-10],
+       "scale": [15, 20, 20]
+    },
+    {
+      "type": "model",
+      "mesh": 4,
+      "texture": 3,
+      "aabb": {
+        "min": [-10, -3, -3],
+        "max": [10, 3.5, 2.5]
+      },
+       "translation": [18,0,-250],
+       "scale": [20, 35, 35]
+    },
+    {
+      "type": "model",
+      "mesh": 4,
+      "texture": 3,
+      "aabb": {
+        "min": [-10, -3, -3],
+        "max": [10, 3.5, 2.5]
+      },
+       "translation": [5,0,-70],
+       "scale": [15, 20, 20]
+    },
+    {
+      "type": "model",
+      "mesh": 4,
+      "texture": 3,
+      "aabb": {
+        "min": [-10, -3, -3],
+        "max": [10, 5, 2.5]
+      },
+       "translation": [10,0,-150],
+       "scale": [25, 30, 30]
+    },{
+      "type": "model",
+      "mesh": 4,
+      "texture": 3,
+      "aabb": {
+        "min": [-10, -3, -3],
+        "max": [10, 5, 2.5]
+      },
+       "translation": [27,0,-350],
+       "scale": [45, 35, 35]
+    },
+    {
+      "type": "model",
+      "mesh": 4,
+      "texture": 3,
+      "aabb": {
+        "min": [-10, -3, -3],
+        "max": [10, 20, 2.5]
+      },
+       "translation": [34,0,-420],
+       "scale": [45, 35, 35]
+    }
+
+  ],
+  "textures": [
+    "../../common/images/crate-diffuse.png",
+    "../../common/images/grass.png",
+    "../../common/images/metal.png",
+    "../../common/images/stone.png"
+  ],
+  "meshes": [
+    "../../common/models/tree.json",
+    "../../common/models/pyramid.json",
+    "../../common/models/land.json",
+    "../../common/models/plane.json",
+    "../../common/models/bridge.json",
+    "../../common/models/tower.json"
+
+
+    
+
+  ]
+}
